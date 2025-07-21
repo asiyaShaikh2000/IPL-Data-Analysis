@@ -4,14 +4,14 @@ Data-driven strategies for identifying top-performing and value-for-money player
 # Overview
 This project focuses on developing data-driven strategies to help Royal Challengers Bangalore (RCB) identify top-performing and reliable players for the 2017 IPL mega auction. The objective is to optimize player investments by analyzing on-field performance metrics alongside cost-efficiency to ensure maximum value for money.
 
-## 🎯 Objective
+##  Objective
 To support RCB in selecting high-impact players and optimizing auction spending by:
 - Identifying top performers based on batting, bowling, and all-round statistics.
 - Evaluating player consistency, reliability, and match-winning ability.
 - Assessing value for money through cost-performance analysis.
 - Recommending ideal player combinations for different roles (e.g., openers, finishers, death bowlers).
 
-## 🔍 Key Focus Areas
+##  Key Focus Areas
 
 1. **Player Performance Analysis**
    - Evaluate historical performance of players (batting average, strike rate, bowling economy, etc.)
@@ -45,7 +45,7 @@ To support RCB in selecting high-impact players and optimizing auction spending 
    - Backup options for high-demand players
    - Suggested bidding limits to avoid overspending
 
-## 🧠 Strategic Recommendations for RCB Ahead of the Mega Auction
+## Strategic Recommendations for RCB Ahead of the Mega Auction
 
 Before heading into the 2017 mega auction, RCB should strategically focus on strengthening key areas of their squad to improve match outcomes and increase tournament competitiveness:
 
@@ -75,7 +75,7 @@ Before heading into the 2017 mega auction, RCB should strategically focus on str
 
 These strategic areas will help RCB build a well-rounded squad with the depth, flexibility, and match-winning capability required to dominate the 2017 season.
 
-## ✅ Conclusion
+## Conclusion
 
 This project provides a comprehensive data-driven framework to support RCB’s decision-making process ahead of the 2017 mega auction. By combining player performance analytics with financial efficiency metrics, the analysis identifies top-performing and value-for-money players across key roles.
 
@@ -83,4 +83,7 @@ The strategic recommendations outlined — including strengthening death-over ba
 
 With this actionable insight, RCB can approach the auction with clarity and confidence, ensuring smarter investments and a stronger team foundation for future success.
 
-
+## Contact
+**Asiya Shaikh**  
+📧 shaikhasiya2000@gmail.com  
+🔗 [LinkedIn Profile](http://www.linkedin.com/in/shaikhasiya2000)
