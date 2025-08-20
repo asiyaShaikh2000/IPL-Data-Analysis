@@ -83,7 +83,10 @@ The strategic recommendations outlined — including strengthening death-over ba
 
 With this actionable insight, RCB can approach the auction with clarity and confidence, ensuring smarter investments and a stronger team foundation for future success.
 
-## Contact
-**Asiya Shaikh**  
-📧 shaikhasiya2000@gmail.com  
-🔗 [LinkedIn Profile](http://www.linkedin.com/in/shaikhasiya2000)
+## 📬 Contact
+
+I’d love to connect!  
+
+- 💼 LinkedIn: [Asiya Shaikh](www.linkedin.com/in/shaikhasiya2000)  
+- 📧 Email: shaikhasiya2000@gmail.com
+- 💻 GitHub: [asiyaShaikh2000](https://github.com/asiyaShaikh2000)
